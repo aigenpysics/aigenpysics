@@ -9,10 +9,8 @@
 - ⚡ Fun facts:
   - KATUSA — Served in the U.S. Army 1st Signal Brigade as a 25L (IT Specialist)
   - Zetamac score: 76
-  - Silver Medalist, The 43th Mathematics Competition for University Students in Korea
+  - Silver Medalist, [The 43th Mathematics Competition for University Students in Korea](https://www.kms.or.kr/conference/sub10.html)
   - Founded [GrinTech_Pethealth](https://www.grintech.kr/)
 
 Recent works:
-- [Your Portfolio PDF](./[your-portfolio-file].pdf)
-- [Project 1](https://[your-link-1])
-- [Project 2](https://[your-link-2])
+- [Corporate-utterance-verification]([https://github.com/aigenpysics/Corporate-utterance-verification])
