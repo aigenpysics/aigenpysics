@@ -1,16 +1,18 @@
-### Hi there 👋
+<!-- [ ] 안의 내용만 수정해서 사용하세요 -->
+👋 Hi, I'm [Your Name] - [YOUR TAGLINE]
 
-<!--
-**aigenpysics/aigenpysics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about:
+  - Dream
 
-Here are some ideas to get you started:
+- 📫 Find me at: [LinkedIn](https://www.linkedin.com/in/정헌-김-12b98b232) | [Email](mailto:gimjeongheon38@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun facts:
+  - KATUSA — Served in the U.S. Army 1st Signal Brigade as a 25L (IT Specialist)
+  - Zetamac score: 76
+  - Silver Medalist, The 43th Mathematics Competition for University Students in Korea
+  - Founded [GrinTech_Pethealth](https://www.grintech.kr/)
+
+Recent works:
+- [Your Portfolio PDF](./[your-portfolio-file].pdf)
+- [Project 1](https://[your-link-1])
+- [Project 2](https://[your-link-2])
