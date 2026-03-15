@@ -13,4 +13,4 @@
   - Founded [GrinTech_Pethealth](https://www.grintech.kr/)
 
 Recent works:
-- [Corporate-utterance-verification]([https://github.com/aigenpysics/Corporate-utterance-verification])
+- [Corporate-utterance-verification](https://github.com/aigenpysics/Corporate-utterance-verification)
