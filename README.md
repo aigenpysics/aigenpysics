@@ -1,5 +1,5 @@
 <!-- [ ] 안의 내용만 수정해서 사용하세요 -->
-👋 Hi, I'm [Your Name] - [YOUR TAGLINE]
+👋 Hi, I'm Jeongheon Kim
 
 - 💬 Ask me about:
   - Dream
